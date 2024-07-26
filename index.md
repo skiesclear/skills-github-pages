@@ -1,3 +1,6 @@
+---
+title: Welcome to my blog
+---
 welcome to my blog！
 
 I am clearday!!!
