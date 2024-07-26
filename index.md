@@ -7,4 +7,4 @@ I am clearday!!!
 
 Nice to share computer sicence knowledge and experience with you!!
 
-[my first page](posts/2024-07-26-firstpage)
+[my first page](_posts/2024-07-26-firstpage)
